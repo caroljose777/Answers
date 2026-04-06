@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Blog Layout</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Blog</h1>
+    </header>
+    <main>
+        <section class="main-content">
+            <article>
+                <h2>Blog Post Title</h2>
+                <p>This is the content of the blog post.</p>
+            </article>
+        </section>
+        <aside class="sidebar">
+            <h3>Recent Posts</h3>
+            <ul>
+                <li>Post 1</li>
+                <li>Post 2</li>
+            </ul>
+        </aside>
+    </main>
+    <footer>
+        <p>© 2026 My Blog</p>
+    </footer>
+</body>
+</html>
