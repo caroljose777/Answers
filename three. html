@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Resume</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 40px;">
+    <h1 style="color: #2c3e50;">Jane Smith</h1>
+    <p>Email: jane.smith@email.com | <a href="https://portfolio.url">Portfolio</a></p>
+    
+    <hr>
+    
+    <h2 style="color: #e67e22;">Education</h2>
+    <p><strong>Bachelor of Science in Computer Science</strong><br>
+    University of Example, 2016-2020</p>
+    
+    <h2 style="color: #e67e22;">Skills</h2>
+    <ul>
+        <li>HTML & CSS</li>
+        <li>Programming</li>
+    </ul>
+</body>
+</html>
