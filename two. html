@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University College Home</title>
+</head>
+<body>
+    <h1>Welcome to City University</h1>
+    <p>Explore our campus and academic offerings through the links below:</p>
+    
+    <h3>Quick Links</h3>
+    <ul>
+        <!-- Using 'href' to link to sections in the details page -->
+        <li><a href="details.html#departments">Our Departments</a></li>
+        <li><a href="details.html#courses">Available Courses</a></li>
+        <li><a href="details.html#faculty">Faculty Members</a></li>
+        <li><a href="details.html#library">Library Resources</a></li>
+    </ul>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Details</title>
+</head>
+<body>
+    <a href="index.html">Back to Home</a>
+
+    <h2 id="departments">Departments</h2>
+    <p>Our college consists of three major departments:</p>
+    <ul>
+        <li><strong>Computer Science:</strong> Focused on AI, Software Engineering, and Web Tech.</li>
+        <li><strong>Business Administration:</strong> Covering Finance, Marketing, and HR.</li>
+        <li><strong>Fine Arts:</strong> Specialized in Graphic Design and Visual Media.</li>
+    </ul>
+
+    <hr>
+
+    <h2 id="courses">Available Courses</h2>
+    <p>We offer the following undergraduate programs:</p>
+    <ol>
+        <li>B.Sc. in Computer Science</li>
+        <li>Bachelor of Business Administration (BBA)</li>
+        <li>B.A. in Visual Arts</li>
+    </ol>
+
+    <hr>
+
+    <h2 id="faculty">Faculties</h2>
+    <p>Our experienced faculty includes:</p>
+    <ul>
+        <li><strong>Dr. Alan Turing</strong> - Head of Computer Science</li>
+        <li><strong>Prof. Sarah Jenkins</strong> - Senior Lecturer, Business</li>
+        <li><strong>Ms. Elena Rossi</strong> - Fine Arts Instructor</li>
+    </ul>
+
+    <hr>
+
+    <h2 id="library">Library</h2>
+    <p>The Central Library offers the following facilities:</p>
+    <ul>
+        <li>Over 50,000 physical books and journals.</li>
+        <li>24/7 access to Digital E-Books.</li>
+        <li>Quiet study zones and computer labs.</li>
+    </ul>
+</body>
+</html>
+
