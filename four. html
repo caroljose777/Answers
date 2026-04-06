@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hometown</title>
+    <style>
+        body {
+            background-color: #f0f8ff; /* AliceBlue background */
+            color: #333333; /* Dark gray text color */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #000080; /* Navy blue heading color */
+            text-align: center;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .hometown-img {
+            display: block;
+            margin: auto;
+            width: 50%;
+            border: 2px solid #000080;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Hometown!</h1>
+    <!-- Replace "path_to_your_image.jpg" with your image path/URL -->
+    <img src="path_to_your_image.jpg" alt="Description of hometown" class="hometown-img">
+    <p>
+        This is a simple web page about my lovely hometown. We have beautiful scenery, a rich history, and friendly people.
+        The internal CSS is used to style this page with an attractive background, text colors, and font.
+    </p>
+    <p>
+        Hope you enjoy the simple design!
+    </p>
+</body>
+</html>
